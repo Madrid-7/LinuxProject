@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="utf-8">
+    <title>异步加载地图</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <style>
+        body,
+        html,
+        #container {
+            overflow: hidden;
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            font-family: "微软雅黑";
+        }
+    </style>
+</head>
+<body>
+<div id="container"></div>
+<script>
+    var txt = '{ "sites" : [' +
+        '{ "name":"菜鸟教程" , "url":"www.runoob.com" },' +
+        '{ "name":"google" , "url":"www.google.com" },' +
+        '{ "name":"微博" , "url":"www.weibo.com" } ]}';
+
+    var obj = eval ("(" + txt + ")");
+
+    document.getElementById("name").innerHTML=obj.sites[0].name
+    document.getElementById("url").innerHTML=obj.sites[0].url
+</script>
+</body>
+</html>

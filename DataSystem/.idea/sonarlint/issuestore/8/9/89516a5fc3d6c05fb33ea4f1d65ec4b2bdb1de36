@@ -1,0 +1,14 @@
+
+T	java:S125"<This block of commented-out lines of code should be removed.(Š™İ§úÿÿÿÿ
+v
+java:S1488"bImmediately return this expression instead of assigning it to the temporary variable "connection".(ˆ¾…¿
+p
+java:S3077"WUse a thread-safe type; adding "volatile" is not enough to make this field thread-safe.(¬šùÿÿÿÿ
+n
+java:S3008"URename this field "DATASOURCE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬šùÿÿÿÿ
+^	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(ÑğŞùûÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(—·Ô®
+N
+java:S1118":Add a private constructor to hide the implicit public one.(ÇÀ—„
+F
+java:S3064"2Fully initialize "DATASOURCE" before assigning it.(Ô„–í
