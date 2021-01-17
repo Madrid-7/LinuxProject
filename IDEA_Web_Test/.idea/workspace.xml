@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="IDEA_Web_Test:Web exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2b41ddb8-f698-4e30-9cbe-ed2f55d40d88" name="默认的" comment="">
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/dataSources/da25a519-1dbb-4cc5-8399-b48800a99bce.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/dataSources/f681aefd-a1e6-49e5-beb4-536f94cb60a0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/libraries/mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/sonarlint/issuestore/8/7/872e4641c2300876f5f48db45af0975db2de3c4c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/sonarlint/issuestore/8/9/89516a5fc3d6c05fb33ea4f1d65ec4b2bdb1de36" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/DataSystem.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/dao/Dao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/util/DBUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/src/dao/Dao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DataSystem/src/util/DBUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/IDEA_Web_Test_Web_exploded.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_47.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/servlet_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webContexts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IDEA_Web_Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/Signin Template · Bootstrap_files/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/Signin Template · Bootstrap_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/Signin Template · Bootstrap_files/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/Signin_Template_Bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/WEB-INF/classes/com/zxf/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/artifacts/IDEA_Web_Test_Web_exploded/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/IDEA_Web_Test/com/zxf/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/ProfileServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/Redirect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/SetCookieByAPIServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/SetCookieByHeaderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/Success.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/UserTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/World.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/zxf/k_means.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Login_Bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Signin Template · Bootstrap_files/bootstrap-solid.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Signin Template · Bootstrap_files/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/Signin Template · Bootstrap_files/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/signin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_IO/.idea/sonarlint/issuestore/4/c/4c29eb12ddb1973784f67f4cb8f2ef86d9be1e1b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_IO/.idea/sonarlint/issuestore/a/8/a862b92d10f810e224187403c322cb8e01f5e244" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_IO/.idea/sonarlint/issuestore/e/0/e0b7e808815c7820851a2de4dfc5a65fba4c5c1c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Java_IO/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/0/7/07336fdf37801a2fc68e040064633adc49933772" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/2/7/278f2ab37234c4a9554a55387da682710d19d660" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/2/f/2f7cbc1851df7142dea397b7d64eea05733d168e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/4/3/43f475ade8b00da0d8e7ef1f38dbb81f47a18a20" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/6/e/6ecd6000a7b6f4a2884412ff19f74193ed089648" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/9/9/995ad2c089a477bb471ea1087b402cbbb456f1f0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/a/8/a81a23694f63940d613fe83b1f0ab99d3d89771c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/c/d/cdcc12da5c4054f6995aab32914d7e0243194c05" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/d/d/dd7b3350c29c49497756c7f32c69a3bed18b1cba" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ServletTest/out/production/ServletTest/com/zxf/Login.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1m2IF14CG53sn3P6W8tFtj0TyxE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="新增" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="/run/media/distance/系统/Users/Administrator/Desktop/work/Java_Project/userManger" />
+    <property name="project.structure.last.edited" value="构件" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="应用程序.k_means">
+    <configuration name="k_means" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zxf.k_means" />
+      <module name="IDEA_Web_Test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxf.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tomcat" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.61" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="IDEA_Web_Test:Web exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="未命名_IDEA_Web_Test" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="44231" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="IDEA_Web_Test:Web exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Tomcat" />
+      <item itemvalue="应用程序.k_means" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.k_means" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2b41ddb8-f698-4e30-9cbe-ed2f55d40d88" name="默认的" comment="" />
+      <created>1608685151230</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608685151230</updated>
+      <workItem from="1608685152363" duration="27346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="748" y="28" width="413" height="1018" key="#HTML" timestamp="1608709979043">
+      <screen x="0" y="28" width="3840" height="1018" />
+    </state>
+    <state x="748" y="28" width="413" height="1018" key="#HTML/0.28.3840.1018@0.28.3840.1018" timestamp="1608709979043" />
+    <state x="822" y="439" width="496" height="271" key="#TomEE_Server" timestamp="1608691462998">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="822" y="439" width="496" height="271" key="#TomEE_Server/0.28.1920.1018@0.28.1920.1018" timestamp="1608691462998" />
+    <state x="2659" y="248" width="432" height="653" key="#Web浏览器" timestamp="1608701060634">
+      <screen x="0" y="28" width="3840" height="1018" />
+    </state>
+    <state x="2659" y="248" width="432" height="653" key="#Web浏览器/0.28.3840.1018@0.28.3840.1018" timestamp="1608701060634" />
+    <state x="1920" y="195" width="1920" height="753" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608701084050">
+      <screen x="0" y="28" width="3840" height="1018" />
+    </state>
+    <state x="418" y="195" width="1315" height="753" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1920.1018@0.28.1920.1018" timestamp="1608697163151" />
+    <state x="1920" y="195" width="1920" height="753" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.3840.1018@0.28.3840.1018" timestamp="1608701084050" />
+    <state x="1172" y="216" width="374" height="600" key="#com.intellij.ide.util.MemberChooser" timestamp="1608733575664">
+      <screen x="0" y="28" width="3840" height="1018" />
+    </state>
+    <state x="768" y="240" width="374" height="600" key="#com.intellij.ide.util.MemberChooser/0.28.1920.1018@0.28.1920.1018" timestamp="1608698019308" />
+    <state x="1172" y="216" width="374" height="600" key="#com.intellij.ide.util.MemberChooser/0.28.3840.1018@0.28.3840.1018" timestamp="1608733575664" />
+    <state x="443" y="134" width="1024" height="852" key="#项目结构" timestamp="1608687991267">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="443" y="134" width="1024" height="852" key="#项目结构/0.28.1920.1018@0.28.1920.1018" timestamp="1608687991267" />
+    <state x="735" y="281" key="FileChooserDialogImpl" timestamp="1608777347315">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="735" y="281" key="FileChooserDialogImpl/0.28.1920.1018@0.28.1920.1018" timestamp="1608777347315" />
+    <state width="1866" height="254" key="GridCell.Tab.0.bottom" timestamp="1608782074429">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1866" height="254" key="GridCell.Tab.0.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074429" />
+    <state width="1285" height="506" key="GridCell.Tab.0.bottom/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105433" />
+    <state width="1866" height="254" key="GridCell.Tab.0.center" timestamp="1608782074428">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1866" height="254" key="GridCell.Tab.0.center/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074428" />
+    <state width="1285" height="506" key="GridCell.Tab.0.center/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105432" />
+    <state width="1866" height="254" key="GridCell.Tab.0.left" timestamp="1608782074428">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1866" height="254" key="GridCell.Tab.0.left/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074428" />
+    <state width="1285" height="506" key="GridCell.Tab.0.left/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105432" />
+    <state width="1866" height="254" key="GridCell.Tab.0.right" timestamp="1608782074428">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1866" height="254" key="GridCell.Tab.0.right/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074428" />
+    <state width="1285" height="506" key="GridCell.Tab.0.right/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105433" />
+    <state width="1285" height="506" key="GridCell.Tab.1.bottom" timestamp="1608782074426">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1285" height="506" key="GridCell.Tab.1.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074426" />
+    <state width="1285" height="506" key="GridCell.Tab.1.bottom/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105434" />
+    <state width="1285" height="506" key="GridCell.Tab.1.center" timestamp="1608782074426">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1285" height="506" key="GridCell.Tab.1.center/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074426" />
+    <state width="1285" height="506" key="GridCell.Tab.1.center/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105433" />
+    <state width="1285" height="506" key="GridCell.Tab.1.left" timestamp="1608782074426">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1285" height="506" key="GridCell.Tab.1.left/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074426" />
+    <state width="1285" height="506" key="GridCell.Tab.1.left/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105433" />
+    <state width="1285" height="506" key="GridCell.Tab.1.right" timestamp="1608782074426">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1285" height="506" key="GridCell.Tab.1.right/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074426" />
+    <state width="1285" height="506" key="GridCell.Tab.1.right/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105433" />
+    <state width="1285" height="506" key="GridCell.Tab.2.bottom" timestamp="1608782074427">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1285" height="506" key="GridCell.Tab.2.bottom/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074427" />
+    <state width="1285" height="506" key="GridCell.Tab.2.bottom/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105434" />
+    <state width="1285" height="506" key="GridCell.Tab.2.center" timestamp="1608782074426">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1285" height="506" key="GridCell.Tab.2.center/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074426" />
+    <state width="1285" height="506" key="GridCell.Tab.2.center/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105434" />
+    <state width="1285" height="506" key="GridCell.Tab.2.left" timestamp="1608782074426">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1285" height="506" key="GridCell.Tab.2.left/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074426" />
+    <state width="1285" height="506" key="GridCell.Tab.2.left/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105434" />
+    <state width="1285" height="506" key="GridCell.Tab.2.right" timestamp="1608782074427">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state width="1285" height="506" key="GridCell.Tab.2.right/0.28.1920.1018@0.28.1920.1018" timestamp="1608782074427" />
+    <state width="1285" height="506" key="GridCell.Tab.2.right/0.28.3840.1018@0.28.3840.1018" timestamp="1608734105434" />
+    <state x="197" y="91" width="1429" height="852" key="SettingsEditor" timestamp="1608686501656">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="197" y="91" width="1429" height="852" key="SettingsEditor/0.28.1920.1018@0.28.1920.1018" timestamp="1608686501656" />
+    <state x="455" y="79" width="1309" height="929" key="new project wizard" timestamp="1608777897522">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="455" y="79" width="1309" height="929" key="new project wizard/0.28.1920.1018@0.28.1920.1018" timestamp="1608777897522" />
+    <state x="2294" y="79" width="1162" height="929" key="new project wizard/0.28.3840.1018@0.28.3840.1018" timestamp="1608725196591" />
+    <state x="624" y="243" key="run.anything.popup" timestamp="1608686375300">
+      <screen x="0" y="28" width="1920" height="1018" />
+    </state>
+    <state x="624" y="243" key="run.anything.popup/0.28.1920.1018@0.28.1920.1018" timestamp="1608686375300" />
+  </component>
+</project>
