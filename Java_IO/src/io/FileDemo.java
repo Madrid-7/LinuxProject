@@ -13,7 +13,7 @@ public class FileDemo {
             testFile("/home/distance/Project/LinuxProject/Java_IO/src/NoSuchFile.java");
 
             //文件夹
-            testFile("/home/distance/Project/LinuxProject/Java_IO/src");
+            testFile("/home/distance");
 
         }
     }
