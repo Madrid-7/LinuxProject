@@ -15,6 +15,7 @@ public class FileDemo {
             //文件夹
             testFile("/home/distance");
 
+
         }
     }
 
