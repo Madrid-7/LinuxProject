@@ -1,7 +1,7 @@
-package io;
+package io.file;
 
 import java.io.File;
-import java.sql.SQLOutput;
+
 
 public class FileDemo {
     public static void main(String[] args) {
