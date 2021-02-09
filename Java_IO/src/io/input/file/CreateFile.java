@@ -1,4 +1,4 @@
-package io.file;
+package io.input.file;
 
 import java.io.File;
 import java.io.IOException;
@@ -13,7 +13,7 @@ public class CreateFile {
         System.out.println("File 对象创建成功，输入回车创建文件");
         sc.nextLine();
 
-        file.createNewFile();;
+        file.createNewFile();
         System.out.println("文件创建成功");
     }
 }
