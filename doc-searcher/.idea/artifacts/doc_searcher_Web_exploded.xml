@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="doc-searcher:Web exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/doc_searcher_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="doc-searcher/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="doc-searcher" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

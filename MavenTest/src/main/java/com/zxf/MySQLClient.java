@@ -1,7 +1,9 @@
 package com.zxf;
 
-import java.sql.SQLOutput;
+
+import java.sql.*;
 import java.util.Arrays;
+import java.util.Scanner;
 
 /**
  * @author ：ZXF
@@ -17,7 +19,7 @@ public class MySQLClient {
     private static String password = "";
     private static String defaultDatabaseName = "test";
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws ClassNotFoundException, SQLException {
 
         if (args.length == 0) {
             printUsageAndExit();
@@ -25,7 +27,68 @@ public class MySQLClient {
 
         parseArguments(args);
 
+        // 1. 连接
+        Class.forName("com.mysql.jdbc.Driver");
 
+        String url = String.format("jdbc:mysql://%s:%d/%s?useSSL=false&charsetEncoding=utf8",
+                host, port, defaultDatabaseName);
+
+        try (Connection connection = DriverManager.getConnection(url, user, password)) {
+            printWelcome();
+            try (Scanner sc = new Scanner(System.in)) {
+
+                while (true) {
+                    System.out.print("mysql> ");
+                    String shell = sc.nextLine();
+
+                    if (shell.equalsIgnoreCase("quit")) {
+                        System.out.println("Bye");
+                        break;
+                    }
+
+                    if (shell.startsWith("select") || shell.startsWith("show")) {
+                        executeQuery(connection, shell);
+                    } else {
+                        executeUpdate(connection, shell);
+                    }
+
+                }
+            }
+
+        }
+
+    }
+
+    private static void executeUpdate(Connection connection, String shell) {
+
+    }
+
+    private static void executeQuery(Connection connection, String shell) throws SQLException {
+        Statement statement = connection.createStatement();
+        ResultSet resultSet = statement.executeQuery(shell);
+        int columnCount = resultSet.getMetaData().getColumnCount();
+        while (resultSet.next()) {
+
+            for (int i = 0; i < columnCount; i++) {
+                String value = resultSet.getString(1 + i);
+                System.out.print(value + ",");
+                System.out.println();
+            }
+        }
+    }
+
+    private static void printWelcome() {
+        System.out.println("Welcome to the MySQL monitor.  Commands end with ; or \\g.\n" +
+                "Your MySQL connection id is 17\n" +
+                "Server version: 8.0.23-0ubuntu0.20.04.1 (Ubuntu)\n" +
+                "\n" +
+                "Copyright (c) 2000, 2021, Oracle and/or its affiliates.\n" +
+                "\n" +
+                "Oracle is a registered trademark of Oracle Corporation and/or its\n" +
+                "affiliates. Other names may be trademarks of their respective\n" +
+                "owners.\n" +
+                "\n" +
+                "Type 'help;' or '\\h' for help. Type '\\c' to clear the current input statement.");
     }
 
     private static void parseArguments(String[] args) {
