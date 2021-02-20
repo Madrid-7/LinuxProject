@@ -4,156 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="baa92950-8831-4568-8231-38fd6f79a95c" name="默认的" comment="MavenExercise">
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/Test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/K_means/k_means.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/dao/Dao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/entiy/Inf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/entiy/Point.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/servlet/AddInfServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/servlet/InfServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/servlet/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/servlet/PointServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/servlet/ProfileServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/servlet/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/servlet/UserTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/test/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/classes/util/DBUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/lib/jackson-annotations-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/lib/jackson-core-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/lib/jackson-databind-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/css/admin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/css/amazeui.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/fonts/FontAwesome.otf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/fonts/fontawesome-webfont.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/fonts/fontawesome-webfont.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/fonts/fontawesome-webfont.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/fonts/fontawesome-webfont.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/app-icon72x72@2x.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/admin-chrome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/admin-firefox.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/admin-ie.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/admin-opera.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/admin-safari.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/adminPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/blogPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/landing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/landingPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/loginPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/examples/sidebarPage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/favicon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/i/startup-640x1096.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/a9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/lbbg.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/syncfusion-icons-white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/user01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/user02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/user03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/user04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/user05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/user06.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/img/user07.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/js/amazeui.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/js/iscroll.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/assets/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/form-amazeui.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/js/echarts.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/js/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/lib/jackson-annotations-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/lib/jackson-core-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/lib/jackson-databind-2.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/lib/javax.servlet.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/lib/mysql-connector-java-5.1.47.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/map.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/artifacts/DataSystem_Web_exploded/table-font-list.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/K_means/k_means.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/dao/Dao.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/entiy/Inf.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/entiy/Point.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/servlet/AddInfServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/servlet/InfServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/servlet/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/servlet/PointServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/servlet/ProfileServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/servlet/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/servlet/UserTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/test/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../DataSystem/out/production/DataSystem/util/DBUtil.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/Signin Template · Bootstrap_files/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/WEB-INF/classes/com/zxf/LoginServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/WEB-INF/classes/com/zxf/ProfileServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/WEB-INF/classes/com/zxf/SetCookieByAPIServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/WEB-INF/classes/com/zxf/Success.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/WEB-INF/classes/com/zxf/UserTable.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/WEB-INF/lib/servlet-api.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/artifacts/IDEA_Web_Test_Web_exploded/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/production/IDEA_Web_Test/com/zxf/ProfileServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/production/IDEA_Web_Test/com/zxf/SetCookieByHeaderServlet.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/production/IDEA_Web_Test/com/zxf/Success.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/production/IDEA_Web_Test/com/zxf/Test.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/production/IDEA_Web_Test/com/zxf/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../IDEA_Web_Test/out/production/IDEA_Web_Test/com/zxf/World.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/use_datasource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/use_prepareStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ServletTest/.idea/libraries/servlet_api1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/.idea/artifacts/doc_searcher_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/doc-searcher.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/src/main/java/com/zxf/mod/Doclnfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/src/main/java/com/zxf/util/Parser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/src/main/webapp/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/classes/com/zxf/mod/Doclnfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/classes/com/zxf/util/Parser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds.war" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/classes/com/zxf/mod/Doclnfo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/classes/com/zxf/util/Parser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/lib/ansj_seg-5.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/lib/jackson-annotations-2.11.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/lib/jackson-core-2.11.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/lib/jackson-databind-2.11.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/lib/mysql-connector-java-5.1.49.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/lib/nlp-lang-1.7.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/jds/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../doc-searcher/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+    <list default="true" id="baa92950-8831-4568-8231-38fd6f79a95c" name="默认的" comment="MavenExercise，Mysql">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/boke.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zxf/MySQLClient.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zxf/use_datasource.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/zxf/use_prepareStatement.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zxf/MySQLClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zxf/MySQLClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServletTest/.idea/libraries/servlet_api.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ServletTest/ServletTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ServletTest/ServletTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/博客系统的建库建表语句.sql" beforeDir="false" afterPath="$PROJECT_DIR$/博客系统的建库建表语句.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -353,6 +211,9 @@
       <workItem from="1613285801875" duration="11305000" />
       <workItem from="1613414003048" duration="70000" />
       <workItem from="1613436722391" duration="7279000" />
+      <workItem from="1613518551872" duration="7842000" />
+      <workItem from="1613612518498" duration="620000" />
+      <workItem from="1613825821187" duration="601000" />
     </task>
     <task id="LOCAL-00001" summary="MavenExercise">
       <created>1613301485781</created>
@@ -361,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613301485781</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="MavenExercise，Mysql">
+      <created>1613489829124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613489829124</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -381,6 +249,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="MavenExercise" />
-    <option name="LAST_COMMIT_MESSAGE" value="MavenExercise" />
+    <MESSAGE value="MavenExercise，Mysql" />
+    <option name="LAST_COMMIT_MESSAGE" value="MavenExercise，Mysql" />
   </component>
 </project>
