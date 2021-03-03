@@ -1,8 +1,6 @@
 package com.zxf;
 
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.SQLException;
+import java.sql.*;
 import java.util.Scanner;
 
 /**
@@ -15,8 +13,6 @@ import java.util.Scanner;
 public class UserRegisterAction implements Action{
     @Override
     public void run() {
-        String sql = "insert into users (username, nickname, password) values (?, ?, ?)";
-
         System.out.println("用户注册。。。");
 
         Scanner scanner = new Scanner(System.in);
@@ -28,17 +24,30 @@ public class UserRegisterAction implements Action{
         String password = scanner.nextLine();
 
         try (Connection connection = DBUtil.getConnection()) {
-            try (PreparedStatement statement = connection.prepareStatement(sql)) {
+            String sql = "insert into users (username, nickname, password) values (?, ?, ?)";
+            try (PreparedStatement statement = connection.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS)) {
+                // Statement.RETURN_GENERATED_KEYS  -> 返回刚才插入数据的自增 id
+                // 即返回生成的自增主键
                 statement.setString(1, username);
                 statement.setString(2, nickname);
                 statement.setString(3, password);
 
                 statement.executeUpdate();
-                System.out.println("注册成功。。。");
+
+                int id;
+                try (ResultSet resultSet = statement.getGeneratedKeys()) {
+                    resultSet.next();
+                    id = resultSet.getInt(1);
+                }
+
+                System.out.println("注册成功。。。->" + nickname);
+
+                User user = new User(id, username, nickname);
+                User.login(user);
             }
 
         } catch (SQLException throwables) {
-            throwables.printStackTrace();
+            System.out.println("错误:" + throwables.getMessage());
         }
 
     }

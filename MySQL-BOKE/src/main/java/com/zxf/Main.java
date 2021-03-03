@@ -32,6 +32,9 @@ public class Main {
 
     private static void initActionList() {
         actionList.add(new UserRegisterAction());
+        actionList.add(new UserLoginAction());
+        actionList.add(new ArticleListAction());
+        actionList.add(new ArticlePublishAction());
     }
 
     public static void main(String[] args) {
@@ -43,7 +46,6 @@ public class Main {
             showPrompt();
             int select = sc.nextInt();
             doAction(select);
-
 
         }
 

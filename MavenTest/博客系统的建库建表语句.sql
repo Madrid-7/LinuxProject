@@ -7,7 +7,7 @@ use boke;
 CREATE TABLE users (
     id INT PRIMARY KEY AUTO_INCREMENT COMMENT '自增 id',
     username VARCHAR(200) NOT NULL UNIQUE COMMENT '唯一的用户名',
-    nikename VARCHAR(200) NOT NULL COMMENT '显示名称',
+    nickname VARCHAR(200) NOT NULL COMMENT '显示名称',
     password VARCHAR(200) NOT NULL COMMENT '登录密码'
 );
 
