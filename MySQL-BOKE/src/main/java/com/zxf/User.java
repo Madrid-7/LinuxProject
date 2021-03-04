@@ -33,11 +33,8 @@ public class User {
         return currentUser;
     }
 
-    public static boolean isLoggined() {
-        if (currentUser == null) {
-            return false;
-        }
-        return true;
+    public static boolean isLogged() {
+        return currentUser != null;
     }
 
     @Override

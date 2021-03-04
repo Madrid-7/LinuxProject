@@ -27,6 +27,8 @@ public class Main {
         featureList.add("查看指定文章内容");
         featureList.add("评论文章-需要先登录");
         featureList.add("点赞文章-需要先登录");
+        featureList.add("取消点赞指定文章-需要先登录");
+        featureList.add("查找标题中包含某些字符的文章列表");
 
     }
 
@@ -35,6 +37,8 @@ public class Main {
         actionList.add(new UserLoginAction());
         actionList.add(new ArticleListAction());
         actionList.add(new ArticlePublishAction());
+        actionList.add(new ArticleDetailAction());
+        //actionList.add();
     }
 
     public static void main(String[] args) {

@@ -19,17 +19,20 @@ public class ArticleListAction implements Action {
     public void run() {
         try (Connection connection = DBUtil.getConnection()) {
             List<String[]> articleList = new ArrayList<>();
-            String sql = "select id, author_id, title, published_at from articles order by published_at";
+            String sql = "select articles.id, nickname, title, published_at " +
+                    "from boke.articles, boke.users " +
+                    "where author_id = users.id " +
+                    "order by published_at";
             try (PreparedStatement s = connection.prepareStatement(sql)) {
                 try (ResultSet resultSet = s.executeQuery()) {
                     while (resultSet.next()) {
                         String[] article = new String[4];
-                        String id = resultSet.getString("id");
-                        String authorId = resultSet.getString("author_id");
+                        String id = resultSet.getString("articles.id");
+                        String nickname = resultSet.getString("nickname");
                         String title = resultSet.getString("title");
                         String publishedAt = resultSet.getString("published_at");
                         article[0] = id;
-                        article[1] = authorId;
+                        article[1] = nickname;
                         article[2] = title;
                         article[3] = publishedAt;
 

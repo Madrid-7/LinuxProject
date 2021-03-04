@@ -18,7 +18,7 @@ import java.util.Scanner;
 public class ArticlePublishAction implements Action {
     @Override
     public void run() {
-        if (!User.isLoggined()) {
+        if (!User.isLogged()) {
             System.out.println("请先登录。。。");
             return;
         }
@@ -36,7 +36,7 @@ public class ArticlePublishAction implements Action {
         String publishedAtStr = format.format(publishedAt);
 
         try (Connection connection = DBUtil.getConnection()) {
-            String sql = "insert into articles (author_id, title, published_at, content) values (?, ?, ?, ?)";
+            String sql = "insert into boke.articles (author_id, title, published_at, content) values (?, ?, ?, ?)";
             try (PreparedStatement preparedStatement = connection.prepareStatement(sql)) {
                 preparedStatement.setInt(1, authorId);
                 preparedStatement.setString(2, title);

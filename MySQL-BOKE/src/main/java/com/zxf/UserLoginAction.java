@@ -25,7 +25,7 @@ public class UserLoginAction implements Action{
         String password = sc.nextLine();
 
         try (Connection connection = DBUtil.getConnection()) {
-            String sql = "select id, nickname from users where username = ? and password = ?";
+            String sql = "select id, username, nickname from boke.users where username = ? and password = ?";
             try (PreparedStatement statement = connection.prepareStatement(sql)) {
                 statement.setString(1, username);
                 statement.setString(2, password);
@@ -33,7 +33,8 @@ public class UserLoginAction implements Action{
                 try (ResultSet resultSet = statement.executeQuery()) {
                     if (resultSet.next()) {
                         int id = resultSet.getInt(1);
-                        String nickname = resultSet.getString(2);
+                        username = resultSet.getString(2);
+                        String nickname = resultSet.getString(3);
 
                         User user = new User(id, username, nickname);
                         User.login(user);
