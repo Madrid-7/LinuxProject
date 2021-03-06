@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa92950-8831-4568-8231-38fd6f79a95c" name="默认的" comment="MavenExercise，Mysql">
-      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/ArticleCommentsAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/ArticleFindListAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/ArticleLikesAction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/CancelLikeAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数据库设计.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/UserRegisterAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/UserRegisterAction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,6 +94,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -219,7 +225,8 @@
       <workItem from="1614094415203" duration="1831000" />
       <workItem from="1614575444293" duration="602000" />
       <workItem from="1614738324848" duration="602000" />
-      <workItem from="1615035828649" duration="615000" />
+      <workItem from="1615035828649" duration="620000" />
+      <workItem from="1615038015758" duration="8310000" />
     </task>
     <task id="LOCAL-00001" summary="MavenExercise">
       <created>1613301485781</created>
