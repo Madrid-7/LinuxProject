@@ -49,7 +49,5 @@ public class UserRegisterAction implements Action{
         } catch (SQLException throwables) {
             System.out.println("错误:" + throwables.getMessage());
         }
-
     }
-
 }

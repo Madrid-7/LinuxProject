@@ -5,12 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa92950-8831-4568-8231-38fd6f79a95c" name="默认的" comment="MavenExercise，Mysql">
-      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/UserLoginAction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/ArticleCommentsAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/ArticleFindListAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/ArticleLikesAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/CancelLikeAction.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/博客系统的建库建表语句.sql" beforeDir="false" afterPath="$PROJECT_DIR$/博客系统的建库建表语句.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MySQL-BOKE/.idea/sqldialects.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MySQL-BOKE/.idea/sqldialects.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/UserRegisterAction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../MySQL-BOKE/src/main/java/com/zxf/UserRegisterAction.java" afterDir="false" />
     </list>
@@ -220,6 +219,7 @@
       <workItem from="1614094415203" duration="1831000" />
       <workItem from="1614575444293" duration="602000" />
       <workItem from="1614738324848" duration="602000" />
+      <workItem from="1615035828649" duration="615000" />
     </task>
     <task id="LOCAL-00001" summary="MavenExercise">
       <created>1613301485781</created>

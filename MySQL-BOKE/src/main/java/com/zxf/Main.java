@@ -38,7 +38,10 @@ public class Main {
         actionList.add(new ArticleListAction());
         actionList.add(new ArticlePublishAction());
         actionList.add(new ArticleDetailAction());
-        //actionList.add();
+        actionList.add(new ArticleCommentsAction());
+        actionList.add(new ArticleLikesAction());
+        actionList.add(new CancelLikeAction());
+        actionList.add(new ArticleFindListAction());
     }
 
     public static void main(String[] args) {
@@ -52,7 +55,6 @@ public class Main {
             doAction(select);
 
         }
-
     }
 
     private static void doAction(int select) {
