@@ -41,10 +41,12 @@ CREATE TABLE orders
 (
     id            INT PRIMARY KEY AUTO_INCREMENT COMMENT '自增 id',
     user_id       INT          NOT NULL COMMENT '用户 id',
+    goods_id      INT          NOT NULL COMMENT '商品 id',
     starting_time DATETIME     NOT NULL COMMENT '订单建立时间',
     ending_time   DATETIME     NOT NULL COMMENT '订单完成时间',
     pay_way       VARCHAR(200) NOT NULL COMMENT '支付方式',
     order_number  VARCHAR(200) NOT NULL COMMENT '订单编号--暂定--可与主键整合',
+
     FOREIGN KEY (user_id) REFERENCES users (id)
 );
 
