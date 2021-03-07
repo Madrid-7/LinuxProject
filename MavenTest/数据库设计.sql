@@ -46,8 +46,8 @@ CREATE TABLE orders
     ending_time   DATETIME     NOT NULL COMMENT '订单完成时间',
     pay_way       VARCHAR(200) NOT NULL COMMENT '支付方式',
     order_number  VARCHAR(200) NOT NULL COMMENT '订单编号--暂定--可与主键整合',
-
-    FOREIGN KEY (user_id) REFERENCES users (id)
+    FOREIGN KEY (user_id) REFERENCES users (id),
+    FOREIGN KEY (goods_id) REFERENCES goods (id)
 );
 
 
