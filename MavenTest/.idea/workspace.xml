@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa92950-8831-4568-8231-38fd6f79a95c" name="默认的" comment="MavenExercise，Mysql">
-      <change afterPath="$PROJECT_DIR$/数据库设计.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数据库设计.sql" beforeDir="false" afterPath="$PROJECT_DIR$/数据库设计.sql" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,17 +94,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -227,6 +216,8 @@
       <workItem from="1614738324848" duration="602000" />
       <workItem from="1615035828649" duration="620000" />
       <workItem from="1615038015758" duration="8310000" />
+      <workItem from="1615083936346" duration="2715000" />
+      <workItem from="1615091409370" duration="4312000" />
     </task>
     <task id="LOCAL-00001" summary="MavenExercise">
       <created>1613301485781</created>
