@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="baa92950-8831-4568-8231-38fd6f79a95c" name="默认的" comment="MavenExercise，Mysql">
-      <change beforePath="$PROJECT_DIR$/数据库设计.sql" beforeDir="false" afterPath="$PROJECT_DIR$/数据库设计.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MySQL-BOKE" />
+    <property name="last_opened_file_path" value="$USER_HOME$/TCP-IP_HTTP/Socket_2020_11_28" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.17" />
@@ -216,7 +216,9 @@
       <workItem from="1615035828649" duration="620000" />
       <workItem from="1615038015758" duration="8310000" />
       <workItem from="1615083936346" duration="2715000" />
-      <workItem from="1615091409370" duration="4847000" />
+      <workItem from="1615091409370" duration="5566000" />
+      <workItem from="1615133082624" duration="1271000" />
+      <workItem from="1615177334176" duration="342000" />
     </task>
     <task id="LOCAL-00001" summary="MavenExercise">
       <created>1613301485781</created>
@@ -246,7 +248,21 @@
       <option name="project" value="LOCAL" />
       <updated>1615098708903</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="MavenExercise，Mysql">
+      <created>1615099242139</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1615099242139</updated>
+    </task>
+    <task id="LOCAL-00006" summary="MavenExercise，Mysql">
+      <created>1615099355161</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1615099355161</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
