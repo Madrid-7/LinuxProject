@@ -10,7 +10,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5889f23d-9f8c-4355-b28b-906cca0d3a3a" name="默认的" comment="WebTest">
+      <change afterPath="$PROJECT_DIR$/src/main/java/CookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/GetCookieServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SessionServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/UpLoadServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/RedirectServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/SuccessServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet-1/out/artifacts/Servlet_1_Web_exploded/WEB-INF/classes/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-1/out/artifacts/Servlet_1_Web_exploded/WEB-INF/classes/HelloServlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet-1/out/artifacts/Servlet_1_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-1/out/artifacts/Servlet_1_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet-1/out/production/Servlet-1/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-1/out/production/Servlet-1/HelloServlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -56,7 +70,8 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Facet" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Servlet-1" />
+    <property name="project.structure.last.edited" value="构件" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -68,12 +83,11 @@
   </component>
   <component name="RunManager">
     <configuration name="Tomcat 8.5.61" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.61" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/Servlet_2_war_exploded/" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Servlet-2:war exploded">
           <settings>
-            <option name="CONTEXT_PATH" value="/Servlet_2_war_exploded" />
+            <option name="CONTEXT_PATH" value="/" />
           </settings>
         </artifact>
       </deployment>
@@ -247,7 +261,11 @@
       <updated>1615983815127</updated>
       <workItem from="1615983816466" duration="7263000" />
       <workItem from="1616031506134" duration="12000" />
-      <workItem from="1616159966015" duration="1198000" />
+      <workItem from="1616159966015" duration="20871000" />
+      <workItem from="1616377900787" duration="3000" />
+      <workItem from="1616377921130" duration="7000" />
+      <workItem from="1616377950957" duration="5000" />
+      <workItem from="1616387052541" duration="2000" />
     </task>
     <task id="LOCAL-00001" summary="WebTest">
       <created>1615993435896</created>
@@ -256,7 +274,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615993435896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="WebTest">
+      <created>1616254497290</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1616254497290</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
