@@ -10,20 +10,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5889f23d-9f8c-4355-b28b-906cca0d3a3a" name="默认的" comment="WebTest">
-      <change afterPath="$PROJECT_DIR$/src/main/java/CookieServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GetCookieServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/SessionServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/UpLoadServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/RedirectServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/SuccessServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/page.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Servlet-1/out/artifacts/Servlet_1_Web_exploded/WEB-INF/classes/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-1/out/artifacts/Servlet_1_Web_exploded/WEB-INF/classes/HelloServlet.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Servlet-1/out/artifacts/Servlet_1_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-1/out/artifacts/Servlet_1_Web_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Servlet-1/out/production/Servlet-1/HelloServlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-1/out/production/Servlet-1/HelloServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bit/LoginServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bit/ProfileServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bit/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/bit/UserTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/SetCookieByAPIServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/zxf/SetCookieByHeaderServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/webapp/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/HelloServlet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/SessionServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SessionServlet.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +70,7 @@
     <property name="project.structure.last.edited" value="构件" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -82,6 +78,17 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Tomcat 8.5.61" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.61" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -266,6 +273,16 @@
       <workItem from="1616377921130" duration="7000" />
       <workItem from="1616377950957" duration="5000" />
       <workItem from="1616387052541" duration="2000" />
+      <workItem from="1616387257031" duration="125000" />
+      <workItem from="1616387413891" duration="97000" />
+      <workItem from="1616387533440" duration="75000" />
+      <workItem from="1616387660169" duration="127000" />
+      <workItem from="1616387803280" duration="72000" />
+      <workItem from="1616387889699" duration="62000" />
+      <workItem from="1616387971915" duration="43000" />
+      <workItem from="1616388031996" duration="53000" />
+      <workItem from="1616388108079" duration="15000" />
+      <workItem from="1616388137493" duration="9038000" />
     </task>
     <task id="LOCAL-00001" summary="WebTest">
       <created>1615993435896</created>
@@ -281,7 +298,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616254497290</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="WebTest">
+      <created>1616387361099</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616387361099</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -24,7 +24,7 @@ public class SessionServlet extends HttpServlet {
         Date lastAccessTime = new Date(session.getLastAccessedTime());
         String title = "欢迎回来";
         String visitCountKey = new String("visitCount");
-        Integer visitCount = new Integer(0);
+        Integer visitCount = 0;
         String userIDKey = new String("userID");
         String userID = new String("abcd");
 // 检查网页上是否是新的访问者
