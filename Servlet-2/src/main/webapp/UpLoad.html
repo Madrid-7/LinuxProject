@@ -8,8 +8,9 @@
 <h3>文件上传:</h3>
 请选择要上传的文件:<br />
 <form action="upload" method="post" enctype="multipart/form-data">
-    <input type="file" name="file" size="50" />
-    <br />
+    <input type="file" multiple name="file" size="50" />
+<!--    multiple 多文件上传  -->
+    <br/>
     <input type="submit" value="上传文件" />
 </form>
 </body>

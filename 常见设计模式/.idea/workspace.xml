@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="ArtifactsWorkspaceSettings">
-    <artifacts-to-build>
-      <artifact name="Servlet-2:war exploded" />
-    </artifacts-to-build>
-  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5889f23d-9f8c-4355-b28b-906cca0d3a3a" name="默认的" comment="WebTest">
+    <list default="true" id="8c0dffad-74be-4ff0-9ed3-02598ccc0646" name="默认的" comment="">
       <change afterPath="$PROJECT_DIR$/../.idea/LinuxProject.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/.name" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/compiler.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/JavaEE-Test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/HelloSpring.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/src/main/java/com/zxf/pojo/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/src/main/resources/beans.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/src/test/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/JavaEE.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/artifacts/Servlet_BOKE_Web_exploded.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/compiler.xml" afterDir="false" />
@@ -41,8 +42,43 @@
       <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/webapp/publish.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/webapp/publish.jsp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/webapp/register.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/UpLoad.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/单例模式/Singleton1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/单例模式/Singleton2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/单例模式/Singleton3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/FactoryPatternDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/ShapeFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单例模式/Singleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单例模式/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/单例模式/Singleton3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工厂模式/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工厂模式/FactoryPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工厂模式/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工厂模式/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工厂模式/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/工厂模式/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/装饰器模式/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/装饰器模式/DecoratorPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/装饰器模式/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/装饰器模式/RedShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/装饰器模式/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/装饰器模式/ShapeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/观察者模式/BinaryObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/观察者模式/HexaObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/观察者模式/Observer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/观察者模式/ObserverPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/观察者模式/OctalObserver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/观察者模式/Subject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/常见设计模式.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Servlet-2/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-2/src/main/webapp/UpLoad.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,20 +88,13 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
-  <component name="LogFilters">
-    <option name="FILTER_ERRORS" value="false" />
-    <option name="FILTER_WARNINGS" value="false" />
-    <option name="FILTER_INFO" value="true" />
-    <option name="FILTER_DEBUG" value="true" />
-    <option name="CUSTOM_FILTER" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -75,7 +104,7 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectId" id="1pstqGjiHf6PcuYjYy04fOiy3Di" />
+  <component name="ProjectId" id="1qKpfgguN4aPdHhh1Ty6Q6JkFUe" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -83,109 +112,65 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Algorithm/2021_3_25" />
-    <property name="project.structure.last.edited" value="Facet" />
+    <property name="project.structure.last.edited" value="SDK" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="Tomcat 8.5.61" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.61" ALTERNATIVE_JRE_ENABLED="false" nameIsGenerated="true">
-      <option name="UPDATING_POLICY" value="restart-server" />
-      <deployment>
-        <artifact name="Servlet-2:war exploded">
-          <settings>
-            <option name="CONTEXT_PATH" value="/" />
-          </settings>
-        </artifact>
-      </deployment>
-      <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="1e84ebda-3005-4dfb-8ff3-81bbe68396c6" />
-      </server-settings>
-      <predefined_log_file enabled="true" id="Tomcat" />
-      <predefined_log_file enabled="true" id="Tomcat Catalina" />
-      <predefined_log_file id="Tomcat Manager" />
-      <predefined_log_file id="Tomcat Host Manager" />
-      <predefined_log_file id="Tomcat Localhost Access" />
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="45977" />
-      </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Profile">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
-        <option name="USE_ENV_VARIABLES" value="true" />
-        <STARTUP>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </STARTUP>
-        <SHUTDOWN>
-          <option name="USE_DEFAULT" value="true" />
-          <option name="SCRIPT" value="" />
-          <option name="VM_PARAMETERS" value="" />
-          <option name="PROGRAM_PARAMETERS" value="" />
-        </SHUTDOWN>
-      </ConfigurationWrapper>
+  <component name="RunManager" selected="应用程序.DecoratorPatternDemo">
+    <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="装饰器模式.DecoratorPatternDemo" />
+      <module name="常见设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="装饰器模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
-        <option name="BuildArtifacts" enabled="true">
-          <artifact name="Servlet-2:war exploded" />
-        </option>
+      </method>
+    </configuration>
+    <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="工厂模式.FactoryPatternDemo" />
+      <module name="常见设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="工厂模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObserverPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="观察者模式.ObserverPatternDemo" />
+      <module name="常见设计模式" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="观察者模式.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.61" ALTERNATIVE_JRE_ENABLED="false">
@@ -266,6 +251,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="应用程序.DecoratorPatternDemo" />
+        <item itemvalue="应用程序.ObserverPatternDemo" />
+        <item itemvalue="应用程序.FactoryPatternDemo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -273,61 +265,13 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="5889f23d-9f8c-4355-b28b-906cca0d3a3a" name="默认的" comment="" />
-      <created>1615983815127</created>
+      <changelist id="8c0dffad-74be-4ff0-9ed3-02598ccc0646" name="默认的" comment="" />
+      <created>1616838241003</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615983815127</updated>
-      <workItem from="1615983816466" duration="7263000" />
-      <workItem from="1616031506134" duration="12000" />
-      <workItem from="1616159966015" duration="20871000" />
-      <workItem from="1616377900787" duration="3000" />
-      <workItem from="1616377921130" duration="7000" />
-      <workItem from="1616377950957" duration="5000" />
-      <workItem from="1616387052541" duration="2000" />
-      <workItem from="1616387257031" duration="125000" />
-      <workItem from="1616387413891" duration="97000" />
-      <workItem from="1616387533440" duration="75000" />
-      <workItem from="1616387660169" duration="127000" />
-      <workItem from="1616387803280" duration="72000" />
-      <workItem from="1616387889699" duration="62000" />
-      <workItem from="1616387971915" duration="43000" />
-      <workItem from="1616388031996" duration="53000" />
-      <workItem from="1616388108079" duration="15000" />
-      <workItem from="1616388137493" duration="9646000" />
-      <workItem from="1616458926790" duration="6350000" />
-      <workItem from="1616673901005" duration="1350000" />
-      <workItem from="1616771946281" duration="599000" />
+      <updated>1616838241003</updated>
+      <workItem from="1616838242388" duration="4056000" />
     </task>
-    <task id="LOCAL-00001" summary="WebTest">
-      <created>1615993435896</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1615993435896</updated>
-    </task>
-    <task id="LOCAL-00002" summary="WebTest">
-      <created>1616254497290</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1616254497290</updated>
-    </task>
-    <task id="LOCAL-00003" summary="WebTest">
-      <created>1616387361099</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1616387361099</updated>
-    </task>
-    <task id="LOCAL-00004" summary="WebTest">
-      <created>1616427683849</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1616427683849</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -343,10 +287,5 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="WebTest" />
-    <option name="LAST_COMMIT_MESSAGE" value="WebTest" />
   </component>
 </project>
