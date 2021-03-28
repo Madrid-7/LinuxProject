@@ -6,16 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="HelloSpring" />
-        <module name="spring-08-mybatis" />
-        <module name="spring-05-appconfig" />
-        <module name="spring-07-aop" />
-        <module name="spring-02-di" />
-        <module name="spring-03-Autowired" />
-        <module name="spring-01-ioc1" />
-        <module name="spring-06-proxy" />
-        <module name="spring-04-anno" />
+        <module name="springboot-01-hello" />
       </profile>
     </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="springboot-01-hello" options="-parameters" />
+    </option>
   </component>
 </project>

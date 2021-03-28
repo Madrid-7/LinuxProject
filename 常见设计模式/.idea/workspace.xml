@@ -4,82 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8c0dffad-74be-4ff0-9ed3-02598ccc0646" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/LinuxProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/HelloSpring.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/src/main/java/com/zxf/pojo/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/src/main/resources/beans.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/HelloSpring/src/test/java/MyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/JavaEE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/artifacts/Servlet_BOKE_Web_exploded.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/Servlet-BOKE.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/database.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/java/com/zxf/DB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/java/com/zxf/LoginServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/java/com/zxf/LogoutServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/java/com/zxf/PublishHtmlServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/java/com/zxf/PublishServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/java/com/zxf/RegisterServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/java/com/zxf/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/java/com/zxf/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/webapp/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/webapp/publish.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/webapp/publish.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Servlet-BOKE/src/main/webapp/register.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/单例模式/Singleton1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/单例模式/Singleton2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/单例模式/Singleton3.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/Circle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/FactoryPatternDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/Rectangle.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/Shape.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/ShapeFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/常见设计模式/工厂模式/Square.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/单例模式/Singleton1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/单例模式/Singleton2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/单例模式/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工厂模式/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工厂模式/FactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工厂模式/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工厂模式/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工厂模式/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/工厂模式/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/装饰器模式/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/装饰器模式/DecoratorPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/装饰器模式/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/装饰器模式/RedShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/装饰器模式/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/装饰器模式/ShapeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/观察者模式/BinaryObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/观察者模式/HexaObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/观察者模式/Observer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/观察者模式/ObserverPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/观察者模式/OctalObserver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/观察者模式/Subject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/常见设计模式.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Servlet-2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Servlet-2/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Servlet-2/src/main/webapp/UpLoad.html" afterDir="false" />
-    </list>
+    <list default="true" id="8c0dffad-74be-4ff0-9ed3-02598ccc0646" name="默认的" comment="Java-Pattern" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,8 +195,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616838241003</updated>
-      <workItem from="1616838242388" duration="4056000" />
+      <workItem from="1616838242388" duration="4111000" />
     </task>
+    <task id="LOCAL-00001" summary="Java-Pattern">
+      <created>1616842333935</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616842333936</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,5 +220,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Java-Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java-Pattern" />
   </component>
 </project>

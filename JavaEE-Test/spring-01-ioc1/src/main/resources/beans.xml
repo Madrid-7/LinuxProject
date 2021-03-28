@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+        https://www.springframework.org/schema/beans/spring-beans.xsd">
+
+<!--
+    id: 唯一标识符
+    class:
+    name: 别名，可设置多个
+-->
+    <bean id="user1" class="User">
+        <property name="name" value="ZXF" />
+    </bean>
+
+<!--    别名  -->
+    <alias name="user1" alias="userNew"/>
+
+<!--    有参数的第一种 通过下标  -->
+    <bean class="User" id="user2">
+        <constructor-arg index="0" value="QWE"/>
+    </bean>
+
+<!--    第二种  通过类型  不建议  -->
+    <bean id="user3" class="User">
+        <constructor-arg type="java.lang.String" value="ZXC"/>
+    </bean>
+
+<!--    第三种   通过参数名  -->
+    <bean class="User" id="user4">
+        <constructor-arg name="name" value="QAZ"/>
+    </bean>
+
+</beans>
