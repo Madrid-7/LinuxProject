@@ -28,6 +28,7 @@ favicon.ico会自动加载为web项目，网站url的图片
 统一的拦截器：
 - @Configuration 
   - implements WebMvcConfigurer
+    - （做WebMVC的配置，都可以重写接口方法，如添加拦截器）
   - @Override
     public void addInterceptors(InterceptorRegistry registry)
   -   Interceptor implements HandlerInterceptor
@@ -35,3 +36,16 @@ favicon.ico会自动加载为web项目，网站url的图片
 统一的异常处理：
 - @ControllerAdvice + ExceptionHandler(Exception.class) 拦截Controller 方法抛出的异常
 
+响应体返回信息的 统一格式化
+- @ControllerAdvice  + class implements ResponseBodyAdvice
+
+---
+获取请求路径中的变量
+- @PathVariable
+![img_1.png](img_1.png)
+  
+@Bean: 使用在方法上，表示注册一个名称为方法名的 Bean 对象到容器中 并且注册到 @Configuration 等类中
+- @Autowired: Spring的注解   -- 默认根据名称
+- @Resource: jdk的注解，是一个规范，Spring是实现了这个规范   -- 默认根据名字
+- @Bean所在的方法，以方法参数的形式注入
+![img_2.png](img_2.png)

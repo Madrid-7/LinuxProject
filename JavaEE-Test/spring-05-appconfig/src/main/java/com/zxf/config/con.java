@@ -1,5 +1,6 @@
 package com.zxf.config;
 
+import com.zxf.pojo.Dog;
 import com.zxf.pojo.User;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
@@ -26,5 +27,10 @@ public class con {
     @Bean
     public User getUser() {
         return new User();
+    }
+
+    @Bean
+    public Dog getDog() {
+        return new Dog();
     }
 }

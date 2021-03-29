@@ -18,5 +18,6 @@ public class Test {
 
         User getUser = (User) context.getBean("getUser");
         System.out.println(getUser.getName());
+        getUser.dog.woof();
     }
 }

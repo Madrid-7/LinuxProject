@@ -19,6 +19,7 @@ import java.util.Map;
  */
 
 // Controller 中，所有客户端处理请求的方法 抛出的异常，都会进入异常处理逻辑
+    //  动态代理实现
 @ControllerAdvice
 public class ExceptionAdvisor {
 

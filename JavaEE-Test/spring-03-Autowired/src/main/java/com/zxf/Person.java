@@ -21,7 +21,7 @@ public class Person {
 
 
 //    // required == false 则说明这个对象可以为 null
-//    // 默认是 byType
+//    // 默认是 byType ？？
 //    @Autowired(required = false)
 //    private Dog dog;
 
