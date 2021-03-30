@@ -5,40 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a325b133-86d5-43e0-ae0f-29334ed837b6" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/../JavaEE-Test/spring-05-appconfig/src/main/java/com/zxf/pojo/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/config/ResponseAdvisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/model/Response.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/service/LoginService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/config/ExceptionAdvisor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/config/ResponseAdvisor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/model/Response.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/public/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaEE-Test/spring-03-Autowired/src/main/java/com/zxf/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEE-Test/spring-03-Autowired/src/main/java/com/zxf/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaEE-Test/spring-05-appconfig/src/main/java/com/zxf/config/con.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEE-Test/spring-05-appconfig/src/main/java/com/zxf/config/con.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaEE-Test/spring-05-appconfig/src/main/java/com/zxf/pojo/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEE-Test/spring-05-appconfig/src/main/java/com/zxf/pojo/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaEE-Test/spring-05-appconfig/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaEE-Test/spring-05-appconfig/src/test/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b3a2eb4e-0d7b-4e67-b03f-b0443a332904.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b3a2eb4e-0d7b-4e67-b03f-b0443a332904/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/blog.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/controller/ArticleController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/mapper/ArticleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/mapper/User2Mapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/model/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/model/User2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/service/ArticleService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/tool/Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/generator/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/mapper/ArticleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/mapper/User2Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/Application.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/config/LoginInterceptor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/config/MyConfig.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/controller/LoginController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/mapper/ArticleMapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/mapper/User2Mapper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/model/Article.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/model/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/model/User2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/service/LoginService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/tool/Generator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/generator/config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/mapper/ArticleMapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/mapper/User2Mapper.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/public/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/src/main/java/com/zxf/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springboot-01-test/src/test/java/com/zxf/demo/DemoApplicationTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/springboot-01-hello.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/springMVC-01-hello.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/java/com/zxf/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/java/com/zxf/config/ExceptionAdvisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/config/ExceptionAdvisor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/java/com/zxf/config/LoginInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/config/LoginInterceptor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/java/com/zxf/config/MyConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/config/MyConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/java/com/zxf/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/controller/LoginController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/java/com/zxf/model/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/model/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/resources/public/error.html" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/public/error.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/resources/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/resources/public/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/public/login.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/src/main/resources/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/static/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/target/classes/com/zxf/config/ExceptionAdvisor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springboot-01-hello/target/classes/static/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/static/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/config/ExceptionAdvisor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/config/ExceptionAdvisor.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,18 +100,20 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunConfigurationTargetLRU" value="b3a2eb4e-0d7b-4e67-b03f-b0443a332904" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/springboot-01-hello/src/main/resources/static" />
-    <property name="project.structure.last.edited" value="SDK" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/springMVC-01-hello/src/main/resources" />
+    <property name="project.structure.last.edited" value="模块" />
     <property name="project.structure.proportion" value="0.17" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
@@ -102,10 +123,34 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/springboot-01-hello/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/springMVC-01-hello/src/main/resources" />
+      <recent name="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf" />
+      <recent name="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/model" />
+      <recent name="$PROJECT_DIR$/springMVC-01-hello" />
+      <recent name="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/tool" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="Generator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zxf.tool.Generator" />
+      <module name="springMVC-01-hello" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zxf.tool.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -116,6 +161,12 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="blog.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/springMVC-01-hello/blog.sql" />
+      <script-mode>FILE</script-mode>
+      <data-source id="b3a2eb4e-0d7b-4e67-b03f-b0443a332904" />
+      <method v="2" />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="springMVC-01-hello" />
@@ -176,6 +227,13 @@
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="UPDATE_ACTION_UPDATE_POLICY" value="UpdateClassesAndResources" />
       <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="springboot-01-test" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zxf.demo.DemoApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -261,6 +319,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="应用程序.Generator" />
+        <item itemvalue="数据库脚本.blog.sql" />
       </list>
     </recent_temporary>
   </component>
@@ -277,7 +337,7 @@
       <updated>1616919385410</updated>
       <workItem from="1616919386899" duration="16398000" />
       <workItem from="1616945627662" duration="6483000" />
-      <workItem from="1616976666440" duration="15555000" />
+      <workItem from="1616976666440" duration="39125000" />
     </task>
     <servers />
   </component>
@@ -298,5 +358,15 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.sql.SQLException" package="java.sql" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
