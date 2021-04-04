@@ -5,59 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a325b133-86d5-43e0-ae0f-29334ed837b6" name="默认的" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b3a2eb4e-0d7b-4e67-b03f-b0443a332904.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/b3a2eb4e-0d7b-4e67-b03f-b0443a332904/storage_v2/_src_/schema/information_schema.FNRwLQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/blog.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/controller/ArticleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/mapper/ArticleMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/mapper/User2Mapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/model/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/model/User2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/service/ArticleService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/tool/Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/generator/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/mapper/ArticleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/mapper/User2Mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/Application.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/config/LoginInterceptor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/config/MyConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/controller/LoginController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/mapper/ArticleMapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/mapper/User2Mapper.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/model/Article.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/model/User.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/model/User2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/service/LoginService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/tool/Generator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/generator/config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/mapper/ArticleMapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/mapper/User2Mapper.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/public/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/src/main/java/com/zxf/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springboot-01-test/src/test/java/com/zxf/demo/DemoApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/note.md" beforeDir="false" afterPath="$PROJECT_DIR$/note.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/src/main/java/com/zxf/config/ExceptionAdvisor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/springMVC-01-hello/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springMVC-01-hello/target/classes/com/zxf/config/ExceptionAdvisor.class" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/HTTPServer.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/docBase/hello.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/docBase/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/docBase/xx.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/out/production/HTTPServer/v1/HttpServer.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/src/v1/HttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/src/v1/RequestResponseTesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/src/v2/HttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/src/v2/RequestResponseTesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/src/v3/HttpServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../HTTPServer/src/v3/RequestResponseTesk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div-httpServer/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div-httpServer/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div-httpServer/src/com/zxf/standard/Servlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div-httpServer/src/com/zxf/standard/ServletException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div-httpServer/src/com/zxf/standard/ServletRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div-httpServer/src/com/zxf/standard/ServletResponse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div-httpServer/src/com/zxf/standard/http/Cookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../div-httpServer/src/com/zxf/standard/http/HttpSession.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -337,7 +308,7 @@
       <updated>1616919385410</updated>
       <workItem from="1616919386899" duration="16398000" />
       <workItem from="1616945627662" duration="6483000" />
-      <workItem from="1616976666440" duration="39125000" />
+      <workItem from="1616976666440" duration="41842000" />
     </task>
     <servers />
   </component>
