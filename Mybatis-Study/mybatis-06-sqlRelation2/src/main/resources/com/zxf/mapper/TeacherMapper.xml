@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="com.zxf.mapper.TeacherMapper">
+
+    <select id="getTeachers" resultType="Teacher">
+        select * from mybatis.teacher;
+    </select>
+
+    <select id="getTeacher" resultMap="TeacherInf">
+        select s.id sid, s.name sname, t.name tname, t.id tid
+        from mybatis.teacher t, mybatis.student s
+        where s.tid = t.id and t.id = #{id};
+    </select>
+    <resultMap id="TeacherInf" type="Teacher">
+        <result property="id" column="tid"/>
+        <result property="name" column="tname"/>
+        <collection property="students" ofType="Student">
+            <result property="id" column="sid"/>
+            <result property="name" column="sname"/>
+            <result property="tid" column="tid"/>
+        </collection>
+    </resultMap>
+
+<!--    xxx-->
+    <select id="getTeacher2" resultMap="TeacherInf2">
+        select * from mybatis.teacher where id = #{id};
+    </select>
+    <resultMap id="TeacherInf2" type="Teacher">
+        <result property="id" column="id"/>
+        <collection property="students" javaType="ArrayList" ofType="Student" select="getStudentByTeacherId" column="id"/>
+    </resultMap>
+    <select id="getStudentByTeacherId" resultType="Student">
+        select * from mybatis.student where tid = #{tid};
+    </select>
+
+</mapper>

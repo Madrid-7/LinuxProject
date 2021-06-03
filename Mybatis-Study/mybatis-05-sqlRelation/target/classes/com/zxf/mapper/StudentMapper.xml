@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+
+
+<mapper namespace="com.zxf.mapper.StudentMapper">
+
+<!--    子查询
+-->
+    <select id="getStudent" resultMap="StudentInf">
+        select * from mybatis.student;
+    </select>
+    <resultMap id="StudentInf" type="Student">
+        <result property="id" column="id"/>
+        <result property="name" column="name"/>
+<!--        复杂属性，单独处理-->
+<!--        对象 : association-->
+<!--        集合 : collection-->
+        <association property="teacher" column="tid" javaType="Teacher" select="getTeacher"/>
+    </resultMap>
+
+    <select id="getTeacher" resultType="Teacher">
+        select * from mybatis.teacher where id = #{id};
+    </select>
+
+<!--    按照结果嵌套处理
+-->
+    <select id="getStudent2" resultMap="StudentInf2">
+        select s.id sid, s.name sname, t.name tname
+        from mybatis.teacher t, mybatis.student s
+        where s.tid = t.id;
+    </select>
+    <resultMap id="StudentInf2" type="Student">
+        <result property="id" column="sid"/>
+        <result property="name" column="sname"/>
+        <association property="teacher" javaType="Teacher">
+            <result property="name" column="tname"/>
+        </association>
+    </resultMap>
+
+</mapper>

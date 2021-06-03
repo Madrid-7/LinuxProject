@@ -66,7 +66,7 @@ AOP的实现方式
 ---
 SpringBoot怎么进行自动化配置的？
 - spring的SPI机制：
-    - SpringBoot提供了加载依赖包 META-INF 文件夹中，很多配置文件（如 spring。factories）的方式，来初始化配置类，以及做其他的启动时的初始化操作
+    - SpringBoot提供了加载依赖包 META-INF 文件夹中，很多配置文件（如 spring.factories）的方式，来初始化配置类，以及做其他的启动时的初始化操作
     - 框架不知道你的类是什么，但是提供了接口，我们可以自己扩展接口的实现类，框架会进行解析
     
 ---
